@@ -13,7 +13,7 @@ School of Physical Sciences, University of Science and Technology of China (USTC
 Bachelor’s Degree in Optics and Optical Engineering	(Expected in Jun. 2022)
 
 GPA: 3.95/4.3 (until now)
-[My acdemic transcripts until last semester](‪https://github.com/YunfeiHuangUSTC/YunfeiHuangUSTC.github.io/blob/main/%E6%88%90%E7%BB%A9%E5%8D%95.jpg)
+[My acdemic transcripts until last semester](‪%E6%88%90%E7%BB%A9%E5%8D%95.jpg)
 
 #### Standardized English Test
 TOEFL: 99 (Reading: 27, Listening: 28, Speaking: 22, Writing: 22)
