@@ -3,7 +3,6 @@
 [Visit USTC https://www.ustc.edu.cn](https://www.ustc.edu.cn)
 ### Contact Infomation
 Email: huangyunfei@mail.ustc.edu.cn
-
 Mobile Phone: +86-19805900351 (Also my WeChat account)
 ### Research Experience
 #### Silicon-based Spin Qubits (Research Internship)(Aug. 2019 - Present)
