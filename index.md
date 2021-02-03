@@ -31,10 +31,3 @@ Advisor: Dr. Hengyi Li
 +	Measured the terahertz absorption spectroscopy of four different tetracyclines.
 +	Identified the signatures of the principal components in the four tetracyclines from the measured terahertz absorption data.
 
-### Activities in USTC
-#### Soccer Coach
-      <img src="IMG_20190422_134738.jpg" width="60%"> 
-#### Soccer Player
-![scale=0.5](https://github.com/YunfeiHuangUSTC/YunfeiHuangUSTC.github.io/blob/main/IMG_20190422_134738.jpg)
-#### Paper Folding
-![scale=0.5](https://github.com/YunfeiHuangUSTC/YunfeiHuangUSTC.github.io/blob/main/IMG_20200930_164407.jpg)
