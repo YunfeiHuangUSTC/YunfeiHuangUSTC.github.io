@@ -11,3 +11,11 @@ Adivisor: Prof. Haiou Li    [Group Homepage http://lqcc.ustc.edu.cn/qt](http://l
 
 + Performed spin-resolved electron transport experiments in single and double Si quantum dots at liquid helium temperature.
 + To construct a radio-frequency reflectometry coupled with the gate electrodes allowing scalable and sensitive spin readout and manipulation.
+#### Terahertz Spectroscopy of Antibiotics (College Physics Experiment IV)
+Advisor: Dr. Hengyi Li
+
++	Constructed a terahertz time-domain spectrometer with self-designed beam path and sample holder.
++	Measured the terahertz absorption spectroscopy of four different tetracyclines.
++	Identified the signatures of the principal components in the four tetracyclines from the measured terahertz absorption data.
+
+### Memories in USTC
