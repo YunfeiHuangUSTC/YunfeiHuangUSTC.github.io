@@ -33,7 +33,7 @@ Advisor: Dr. Hengyi Li
 
 ### Activities in USTC
 #### Soccer Coach
-<img src="https://github.com/YunfeiHuangUSTC/YunfeiHuangUSTC.github.io/blob/main/IMG_20201101_114952.jpg" alt="IMG_20201101_114952" style="zoom:20%;" />
+      <img src="/IMG_20190422_134738.jpg" width="60%"> 
 #### Soccer Player
 ![scale=0.5](https://github.com/YunfeiHuangUSTC/YunfeiHuangUSTC.github.io/blob/main/IMG_20190422_134738.jpg)
 #### Paper Folding
