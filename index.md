@@ -19,6 +19,7 @@ TOEFL: 99 (Reading: 27, Listening: 28, Speaking: 22, Writing: 22)
 
 ### Awards
 Scholarship for Excellent Students of USTC (Silver)   2019, 2020 (Chinese: 中国科学技术大学优秀学生奖学金银奖 2019，2020)
+
 Chinese Physics Olympiad (Bronze） 2017 (Chinese: 全国中学生物理竞赛三等奖 2017)
 
 
