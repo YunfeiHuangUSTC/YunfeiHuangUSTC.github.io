@@ -12,28 +12,8 @@ School of Physical Sciences, University of Science and Technology of China (USTC
 
 Bachelor’s Degree in Optics and Optical Engineering	(Expected in Jun. 2022)
 
-GPA: 3.95/4.3 (until now)
-
-### Standardized English Test
-TOEFL: 99 (Reading: 27, Listening: 28, Speaking: 22, Writing: 22)
-
 ### Awards
 Scholarship for Excellent Students of USTC (Silver)   2019, 2020 (Chinese: 中国科学技术大学优秀学生奖学金银奖 2019，2020)
 
 Chinese Physics Olympiad (Bronze） 2017 (Chinese: 全国中学生物理竞赛三等奖 2017)
-
-
-### Research Experience
-#### Silicon-Based Spin Qubits (Research Internship)(Aug. 2019 - Present)
-Adivisor: Prof. Haiou Li    [Group Homepage http://lqcc.ustc.edu.cn/qt](http://lqcc.ustc.edu.cn/qt/)
-
-+ Performed spin-resolved electron transport experiments in single and double Si quantum dots at liquid helium temperature.
-+ To construct a radio-frequency reflectometry coupled with the gate electrodes allowing scalable and sensitive spin readout and manipulation.
-
-#### Terahertz Spectroscopy of Antibiotics (College Physics Experiment IV)(Oct. 2020 - Jan.2021)
-Advisor: Dr. Hengyi Li
-
-+	Constructed a terahertz time-domain spectrometer with self-designed beam path and sample holder.
-+	Measured the terahertz absorption spectroscopy of four different tetracyclines.
-+	Identified the signatures of the principal components in the four tetracyclines from the measured terahertz absorption data.
 
